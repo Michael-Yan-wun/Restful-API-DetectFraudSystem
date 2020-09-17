@@ -25,4 +25,4 @@ localhost/../api/reported        | POST   |  To add reported as suspicious domai
 localhost/../api/whois/{domain}  | GET    |  To get whois result.
 localhost/../api/authenticate    | POST   |  To get api-key if we verified that.
 
-### If you want to use our API interface, please contact to us.
+### If you want to use our API interface, please send email to me, or 
